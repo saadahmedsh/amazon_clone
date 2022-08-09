@@ -1,2 +1,2 @@
-
-Amazone-clone developed using React, Django and Django Rest Framework
+#Amazon Clone
+A working prototype of Amazon
